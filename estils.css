@@ -9,7 +9,10 @@
     font-family: fantasy;
 }
 .imatge{
-    text-align: center;
+    left: 50px;
     height: 200px;
     width: 200px;
+}
+.cuadro{
+    
 }
