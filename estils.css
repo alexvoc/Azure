@@ -1,0 +1,15 @@
+.lletra{
+    font-size: 16px;
+    font-style: italic;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.lletra2{
+    font-size: 12px;
+    font-style: oblique;
+    font-family: fantasy;
+}
+.imatge{
+    text-align: center;
+    height: 200px;
+    width: 200px;
+}
